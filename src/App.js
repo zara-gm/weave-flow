@@ -115,7 +115,7 @@ class App extends Component {
                 "nickname",         // name_nickname
                 "lastname",         // name_last
                 "firstname",        // name_first
-                "omar@email.com",  // email
+                "kishore@email.com",  // email
                 "+123456789",       // phone - erasure applied at read
                 "USA",              // address_country
                 "San Francisco",    // address_city - erasure applied at read
